@@ -7,7 +7,7 @@ The system combines **Computer Vision**, **Natural Language Processing (NLP)**, 
 
 This project aims to support organizations in making data-driven decisions that enhance employee well-being, collaboration, and overall productivity.
 
----
+-
 
 # 🎯 Objectives
 
